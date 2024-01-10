@@ -325,7 +325,7 @@ class _Detel_clinicState extends State<Detel_clinic> {
                     ],
                   ),
                   const SizedBox(
-                    height: 20,
+                    height: 25,
                   ),
                   Center(
                     child: ElevatedButton(
